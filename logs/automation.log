@@ -1,0 +1,9 @@
+11:05:53.306 [main] INFO  testCases.Testcase001_AccountRegistrationTest.verify_account_registration(Testcase001_AccountRegistrationTest.java:33)oggger - *****VALIDATING EXPECTED MESSAGE******
+11:05:53.411 [main] ERROR testCases.Testcase001_AccountRegistrationTest.verify_account_registration(Testcase001_AccountRegistrationTest.java:35)oggger - *****error occured******
+11:05:53.412 [main] INFO  testCases.Testcase001_AccountRegistrationTest.verify_account_registration(Testcase001_AccountRegistrationTest.java:36)oggger - *****ending Testcase001_AccountRegistrationTest******
+11:05:53.690 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.jq.Main@67e28be3: 70 ms
+11:05:53.692 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.FailedReporter@108bdbd8: 2 ms
+11:05:53.700 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.XMLReporter@35088e87: 7 ms
+11:05:53.706 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@5b4d25e7: 6 ms
+11:05:53.711 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@2f61f937: 5 ms
+11:05:53.712 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.internal.ExitCodeListener@46866946: 0 ms

@@ -1,0 +1,36 @@
+11:05:18.630 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:05:18.634 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:05:18.636 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:05:18.636 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:05:18.637 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:05:18.637 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:05:18.639 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:05:18.639 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:05:18.643 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+11:05:18.652 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+11:05:18.653 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:05:18.654 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:05:18.655 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:05:18.655 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:05:18.655 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:05:18.656 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:05:18.657 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:05:18.657 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:05:18.658 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:05:18.658 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:05:18.663 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:05:18.663 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:05:18.663 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:05:18.663 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:05:18.666 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:05:18.666 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:05:18.669 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:05:18.669 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:05:18.669 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:05:18.669 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:05:18.676 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\ramya\AppData\Local\Temp\testng-eclipse--495692996\testng-customsuite.xml
+
+11:05:18.695 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+11:05:39.989 [main] INFO  testCases.Testcase001_AccountRegistrationTest.verify_account_registration(Testcase001_AccountRegistrationTest.java:16)oggger - *****starting Testcase001_AccountRegistrationTest******
+11:05:40.833 [main] INFO  testCases.Testcase001_AccountRegistrationTest.verify_account_registration(Testcase001_AccountRegistrationTest.java:21)oggger - *****ENTERING DETAILS TO THE FORM*****
