@@ -1,1 +1,23 @@
+Q1 – Login Automation:
 
+Selenium Java script that opens the GitHub login page, identifies username and password fields using XPath, enters credentials with sendKeys(), and performs login using click(). Covers DOM element handling, WebDriver commands, and basic authentication flow automation.
+
+Q2 – Cross-Browser Execution (TestNG):
+
+TestNG-based Selenium script using the @Test annotation and @Parameters("browser") to read browser value from testng.xml. Implements switch-case logic to initialize ChromeDriver, EdgeDriver, or FirefoxDriver and navigates to Amazon India. Covers TestNG parameterization, cross-browser testing strategy, and dynamic WebDriver initialization.
+
+Q3 – Dynamic Dropdown Handling:
+
+Selenium Java script that interacts with a Select2 dropdown using XPath locators, applies WebDriverWait with ExpectedConditions for synchronization, retrieves multiple options using findElements(), and iterates through the suggestions list. Covers explicit wait implementation, dynamic element handling, and list-based WebElement processing.
+
+Q4 – Title and URL Verification:
+
+Selenium Java script that opens Google, validates page title using getTitle(), retrieves current URL using getCurrentUrl(), and applies Java URL class for domain verification logic. Covers basic validation techniques and integration of Selenium with core Java networking classes.
+
+Q5 – Country & Capitals Management:
+
+Core Java program using a nested HashMap<String, HashMap<String, String>> to store countries, capitals, and seasonal classifications. Implements user input with Scanner, conditional filtering based on number of capitals and seasons, vowel-based checks, and case-insensitive comparisons using equalsIgnoreCase(). Covers multi-level data structures and structured collection traversal.
+
+Q6 – Student Priority Queue System:
+
+Core Java program implementing a PriorityQueue with a custom comparator to sort students based on highest CGPA, alphabetical name order, and lowest ID. Processes "Enter" and "Served" events dynamically using Scanner, and maintains heap-based priority ordering. Covers comparator logic, and priority-based data management.
