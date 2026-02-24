@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo "Files modified in the last 3 days in current directory ($PWD):"
+find . -type f -mtime -3
